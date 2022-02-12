@@ -1,0 +1,248 @@
+require 'ruby2d'
+set background: '#FF1493'
+Image.new(
+    'heart.png',
+    x: 600, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 600, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 600, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 600, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 600, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 500, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 500, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 500, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 500, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 500, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 400, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 400, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 400, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 400, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 400, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 300, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 300, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 300, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 300, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 300, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 200, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 200, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 200, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 200, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 200, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 100, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 100, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 100, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 100, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 100, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 0, y: 400,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 0, y: 300,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 0, y: 200,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 0, y: 100,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+Image.new(
+    'heart.png',
+    x: 0, y: 0,
+    width: 50, height: 50,
+    rotate: 0,
+    z: 10
+)
+show
